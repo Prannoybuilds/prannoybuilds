@@ -77,3 +77,24 @@ Focus Areas
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   
 </p>
+
+
+<br>
+
+# 📊 Development Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prannoybuilds&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prannoybuilds&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prannoybuilds&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
