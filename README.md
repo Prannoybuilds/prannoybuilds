@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 Hello, I'm Prannoy Sen
+# PRANNOY.BUILDS
 
 ### Computer Science Undergraduate
 
