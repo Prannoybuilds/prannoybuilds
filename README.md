@@ -75,5 +75,5 @@ Focus Areas
 
 <p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUJ%20App-005BAC?style=for-the-badge&logo=android&logoColor=white" />
+  
 </p>
