@@ -30,34 +30,52 @@ Focus Areas
 
 ## ⚡ TOOLKIT
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### Frontend
+---
+
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
-### Backend
+---
+
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
 ---
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Oracle%20SQL%20Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MUJ-003366?style=for-the-badge&label=MUJ%20Labs&logoColor=white" />
+</p>
