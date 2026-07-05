@@ -1,32 +1,63 @@
-<div align="center">
+ <div align="center">
 
-# PRANNOY.BUILDS
+# 👋 Hello, I'm Prannoy Sen
 
-### Building software • Learning AI • Exploring Research
+### Computer Science Undergraduate
 
-<br>
-
-> *"Every project is another step toward becoming a better engineer."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Building+Software;Learning+Artificial+Intelligence;Exploring+Research;One+Project+at+a+Time" />
 
 </div>
 
 ---
 
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;AI+%26+Machine+Learning+Learner;Software+Developer;Always+Building+Something+New" />
-</p>
-
-
-
-## 🛰 System Status
+## 🛰 SYSTEM STATUS
 
 ```yaml
-Name      : Prannoy Sen
-Role      : Computer Science Undergraduate
-University: Manipal University Jaipur
-Focus     : AI • Machine Learning • Software Development
-Learning  : React • Next.js • Deep Learning
-Currently : Building projects and improving every day
+Name        : Prannoy Sen
+University  : Manipal University Jaipur
+Program     : B.Tech Computer Science Engineering
+Current     : Building projects and learning consistently
+
+Focus Areas
+------------
+• Artificial Intelligence
+• Machine Learning
+• Software Development
+• Research
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+---
+
+## ⚡ TOOLKIT
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
