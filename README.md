@@ -28,12 +28,12 @@ Focus Areas
 
 ---
 
-## ⚡ TOOLKIT
+## ⚡ Technology Stack
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Focus Areas
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ Focus Areas
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
@@ -57,13 +57,12 @@ Focus Areas
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Oracle%20SQL%20Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL*Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
@@ -71,11 +70,10 @@ Focus Areas
 ### 🛠️ Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MUJ-003366?style=for-the-badge&label=MUJ%20Labs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUJ%20App-005BAC?style=for-the-badge&logo=android&logoColor=white" />
 </p>
