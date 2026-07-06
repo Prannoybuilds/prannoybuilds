@@ -2,8 +2,11 @@
 
 # PRANNOY.BUILDS
 
-### Computer Science Undergraduate
+### Computer Science Undergraduate • Manipal University Jaipur
 
+
+> Building thoughtfully. Learning continuously.
+> 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Building+Software;Learning+Artificial+Intelligence;Exploring+Research;One+Project+at+a+Time" />
 
 </div>
