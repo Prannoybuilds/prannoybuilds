@@ -84,20 +84,15 @@ Focus Areas
 
 <br>
 
-# 📊 Development Analytics
+## 📊 Development Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prannoybuilds&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prannoybuilds&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prannoybuilds&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prannoybuilds&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prannoybuilds&theme=transparent&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=prannoybuilds&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
