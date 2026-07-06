@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Software;Learning+Artificial+Intelligence;Exploring+Research;One+Project+at+a+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Software;Learning+Artificial+Intelligence;Exploring+Research;One+Project+at+a+Time" />
 
 </div>
 
@@ -19,13 +19,15 @@
 ```yaml
 Name       : Prannoy Sen
 Role       : Computer Science Undergraduate
-Location   : Jaipur, Rajasthan, India
 
-Currently Building
-------------------
+Currently Working On
+--------------------
 • Full Stack Development
+
 • Artificial Intelligence
-• Academic Projects
+
+• Personal Projects
+
 • Daily GitHub Journey
 ```
 
@@ -58,58 +60,40 @@ Currently Building
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/Oracle_SQL_Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Oracle%20SQL%20Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/PL/SQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### 🛠 Development Environment
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
-
 </p>
 
 <p>
-
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-
 </p>
 
 ---
 
-# ◈ DEVELOPMENT JOURNEY
+# ◈ DEVELOPMENT METRICS
 
-```text
-2026
+<div align="center">
 
-✓ Started building my GitHub profile
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prannoybuilds&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-✓ Building Hospital Management System
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prannoybuilds&layout=compact&theme=github_dark&hide_border=true"/>
 
-✓ Learning React & Next.js
+</div>
 
-✓ Maintaining a daily GitHub streak
+<br>
 
-→ Next Milestone
+<div align="center">
 
-Machine Learning Projects
-```
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=prannoybuilds&theme=github-dark-blue&hide_border=true"/>
 
----
-
-# ◈ PROJECT ARCHIVE
-
-| Project | Status |
-|----------|--------|
-| 🏥 Hospital Management System | 🚧 In Progress |
-| 🎓 Student Record System | ✅ Completed |
-| 🌐 Personal Portfolio | 🚧 In Progress |
-| 🤖 AI Learning Projects | 📚 Learning |
-| 🧠 EEG Research | 🔬 Research |
+</div>
 
 ---
 
@@ -128,12 +112,6 @@ Machine Learning Projects
 
 ██░░░░░░░░░ Deep Learning
 ```
-
----
-
-# ◈ DEVELOPMENT METRICS
-
-> GitHub statistics and contribution analytics will be added as my projects and contribution history continue to grow.
 
 ---
 
@@ -159,6 +137,6 @@ Machine Learning Projects
 
 ### Learning through consistency.
 
-⭐ Thanks for visiting **PRANNOY.BUILDS**
+⭐ Thanks for visiting.
 
 </div>
