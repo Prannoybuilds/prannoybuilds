@@ -4,95 +4,161 @@
 
 ### Computer Science Undergraduate • Manipal University Jaipur
 
+> *Building thoughtfully. Learning continuously.*
 
-> Building thoughtfully. Learning continuously.
-> 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Building+Software;Learning+Artificial+Intelligence;Exploring+Research;One+Project+at+a+Time" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Software;Learning+Artificial+Intelligence;Exploring+Research;One+Project+at+a+Time" />
 
 </div>
 
 ---
 
-## 🛰 SYSTEM STATUS
+# ◈ CURRENT BUILD
 
 ```yaml
-Name        : Prannoy Sen
-University  : Manipal University Jaipur
-Program     : B.Tech Computer Science Engineering
-Current     : Building projects and learning consistently
+Name       : Prannoy Sen
+Role       : Computer Science Undergraduate
+Location   : Jaipur, Rajasthan, India
 
-Focus Areas
-------------
+Currently Building
+------------------
+• Full Stack Development
 • Artificial Intelligence
-• Machine Learning
-• Software Development
-• Research
+• Academic Projects
+• Daily GitHub Journey
 ```
 
 ---
 
-## ⚡ Technology Stack
+# ◈ ENGINEERING STACK
 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php"/>
 </p>
-
----
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs"/>
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle%20SQL%20Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+### 🛠 Development Environment
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+
 </p>
 
 ---
 
-### ⚙️ Backend
+# ◈ DEVELOPMENT JOURNEY
+
+```text
+2026
+
+✓ Started building my GitHub profile
+
+✓ Building Hospital Management System
+
+✓ Learning React & Next.js
+
+✓ Maintaining a daily GitHub streak
+
+→ Next Milestone
+
+Machine Learning Projects
+```
+
+---
+
+# ◈ PROJECT ARCHIVE
+
+| Project | Status |
+|----------|--------|
+| 🏥 Hospital Management System | 🚧 In Progress |
+| 🎓 Student Record System | ✅ Completed |
+| 🌐 Personal Portfolio | 🚧 In Progress |
+| 🤖 AI Learning Projects | 📚 Learning |
+| 🧠 EEG Research | 🔬 Research |
+
+---
+
+# ◈ CURRENTLY LEARNING
+
+```text
+██████████░░ HTML & CSS
+
+██████████░░ JavaScript
+
+███████░░░░ React
+
+██████░░░░░ Next.js
+
+████░░░░░░░ Machine Learning
+
+██░░░░░░░░░ Deep Learning
+```
+
+---
+
+# ◈ DEVELOPMENT METRICS
+
+> GitHub statistics and contribution analytics will be added as my projects and contribution history continue to grow.
+
+---
+
+# ◈ CONNECT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
-### 🗄️ Database
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+### Building software with curiosity.
 
-<p>
-  <img src="https://img.shields.io/badge/SQL*Plus-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+### Learning through consistency.
 
----
+⭐ Thanks for visiting **PRANNOY.BUILDS**
 
-### 🛠️ Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  
-</p>
-
-
-<br>
-
-## 📊 Development Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prannoybuilds&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prannoybuilds&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=prannoybuilds&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
----
+</div>
