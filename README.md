@@ -1,6 +1,6 @@
  <div align="center">
 
-# PRANNOY.BUILDS
+# PRANNOY . BUILDS
 
 ### Computer Science Undergraduate • Manipal University Jaipur
 
