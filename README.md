@@ -97,7 +97,14 @@ Currently Working On
 
 ---
 
-## ◈ CURRENTLY EXPLORING
+
+<h2>◈ CURRENTLY EXPLORING</h2>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=☕+Java;🗄️+SQL+%26+Database+Systems;🌐+HTML+%26+CSS;⚡+JavaScript;⚛️+React.js;▲+Next.js;🐍+Python;🤖+Machine+Learning;🧠+Deep+Learning;🚀+Building+Projects+Every+Day" />
+
+</p>
 
 - ☕ Java
 - 🗄️ SQL & Database Systems
