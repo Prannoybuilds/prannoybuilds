@@ -97,23 +97,17 @@ Currently Working On
 
 ---
 
-# ◈ CURRENTLY LEARNING
+## ◈ CURRENTLY EXPLORING
 
-```text
-██████████░░ HTML & CSS
-
-██████████░░ JavaScript
-
-███████░░░░ React
-
-██████░░░░░ Next.js
-
-████░░░░░░░ Machine Learning
-
-██░░░░░░░░░ Deep Learning
-```
-
----
+- ☕ Java
+- 🗄️ SQL & Database Systems
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- ⚛️ React.js
+- ▲ Next.js
+- 🐍 Python
+- 🤖 Machine Learning
+- 🧠 Deep Learning
 
 # ◈ CONNECT
 
