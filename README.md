@@ -99,7 +99,7 @@ Currently Working On
 
 
 <h2>◈ CURRENTLY EXPLORING</h2>
-<h2>◈ CURRENTLY EXPLORING</h2>
+
 
 <p align="center">
 
